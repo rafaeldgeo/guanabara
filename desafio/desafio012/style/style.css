@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+div#cabecalho {
+    padding: 10px;
+    background-color: black;
+}
+
+h1,#autor {
+    font-weight: 100;
+    text-align: center;
+    font-family: 'Passion One', cursive;
+    color: white;
+}
+#autor {
+    
+}
+a {
+    font-weight: 100;
+    text-decoration: none;
+    color: white;
+}
+
+
+p {
+    font-family: 'Sriracha', cursive;
+}
+
+footer {
+    text-align: center;
+}
